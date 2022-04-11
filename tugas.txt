@@ -1,0 +1,12 @@
+nanti teman temen buat sebuah keranjang belanja menggunakan session yang sudah dipelajari
+datanya sendiri boleh pake database atau menggunakan array 
+
+
+1. mempunyai list product, yang didalamnya terdapat id product, nama product, stok, harga
+2. dalam list product tersebut terdapat sebuah tombol masukan keranjang belanja
+3. ketika tombol keranjang belanja di klik maka akan di tambahkan ke cart 
+   menggunakan session.
+
+4. misalkan saya klik dengan id 1 maka dia akan ditambahkan ke dalam cart menggunakan session tadi
+5. misalkan saya klik lagi dengan id 1 berarti productnya di cart menjadi 2
+6. jika didalam cart masih belum ada id yang sedang di klik maka di untuk qty 1
